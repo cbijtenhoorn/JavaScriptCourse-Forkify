@@ -1,5 +1,3 @@
-//
-
 import 'core-js/stable';
 import 'regenerator';
 import * as model from './model.js';
